@@ -1,0 +1,35 @@
+ebook_metadata:
+  title: ᨏ ༔སྤྲུལ་པའི་ལོ་ཆེན་བཻ་རོ་ཙ་ནའི་རྣམ་ཐར་པདྨའི་དགའ་ཚལ་ཞེས་བྱ་བ་བཞུགས་སོ༔
+  authors:
+  - མཛད་པ་པོ། འཆི་མེད་བསྟན་གཉིས་གཡུང་དྲུང་གླིང་པ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  sku: SHE-RTD-003
+  layers:
+  - book_title
+  - author
+  - yigchung
+web_metadata:
+  title:
+    en: The Lotus Garden:The Biography of Vairotsana, the Great Magical Translator
+    bo: ༔སྤྲུལ་པའི་ལོ་ཆེན་བཻ་རོ་ཙ་ནའི་རྣམ་ཐར་པདྨའི་དགའ་ཚལ་ཞེས་བྱ་བ་བཞུགས་སོ༔
+  collection:
+    en: Treasury of Precious Termas– Book 3
+    bo: ''
+  author:
+    en: Chime Tennyi Yungdrung Lingpa
+    bo: འཆི་མེད་བསྟན་གཉིས་གཡུང་དྲུང་གླིང་པ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-RTD-003
+  category:
+    en: Biography
+    bo: རྣམ་ཐར།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-RTD-003.epub
+  description:
+    en: ''
+    bo: ''
