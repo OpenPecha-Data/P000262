@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000262
+initial_creation_type: ebook
+source_metadata:
   title: ᨏ ༔སྤྲུལ་པའི་ལོ་ཆེན་བཻ་རོ་ཙ་ནའི་རྣམ་ཐར་པདྨའི་དགའ་ཚལ་ཞེས་བྱ་བ་བཞུགས་སོ༔
   authors:
   - མཛད་པ་པོ། འཆི་མེད་བསྟན་གཉིས་གཡུང་དྲུང་གླིང་པ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
-  sku: SHE-RTD-003
   layers:
   - book_title
   - author
   - yigchung
+  id: SHE-RTD-003
 web_metadata:
   title:
     en: The Lotus Garden:The Biography of Vairotsana, the Great Magical Translator
